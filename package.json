@@ -1,0 +1,22 @@
+{
+  "name": "cypress-pom-project",
+  "version": "1.0.0",
+  "description": "A Cypress project using Page Object Model design pattern.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "test:headless": "cypress run",
+    "allure:report": "npx allure-commandline generate allure-results --clean -o allure-report",
+    "allure:open": "npx allure-commandline open allure-report",
+    "clean:allure": "rimraf allure-results"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.41.2",
+    "allure-commandline": "^2.34.1",
+    "cypress": "^12.0.0",
+    "cypress-xpath": "^2.0.1",
+    "rimraf": "^6.0.1"
+  }
+}

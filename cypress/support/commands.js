@@ -1,0 +1,2 @@
+// Este archivo permite la extensión de comandos personalizados de Cypress.
+// Aquí se pueden definir funciones que se pueden usar en las pruebas, como comandos para iniciar sesión o verificar mensajes de error.

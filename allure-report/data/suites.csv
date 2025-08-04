@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","15952","validar filtrar embarques","","Tue Jun 24 22:12:26 GMT-05:00 2025","passed","Tue Jun 24 22:12:42 GMT-05:00 2025","","Test Home Page","",""
+"","8166","validar Login exitoso","","Tue Jun 24 22:12:50 GMT-05:00 2025","passed","Tue Jun 24 22:12:58 GMT-05:00 2025","","Test Login Page","",""
