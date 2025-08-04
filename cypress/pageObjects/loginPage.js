@@ -50,5 +50,6 @@ export class LoginPage {
   }
 }
 // Prueba de commit con Julieth
+// Prueba de sincronización con GitHub
 
 export default LoginPage
